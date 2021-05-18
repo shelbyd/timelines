@@ -1,0 +1,8 @@
+[package]
+name = "timelines-core"
+version = "0.0.1"
+edition = "2018"
+
+authors = ["Shelby Doolittle <shelby@shelbyd.com>"]
+
+[dependencies]
