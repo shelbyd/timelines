@@ -1,7 +1,9 @@
 [package]
 name = "timelines"
+description = "Utilities for programming systems that primarily vary over time."
 version = "0.0.1"
 edition = "2018"
+license = "MIT"
 
 authors = ["Shelby Doolittle <shelby@shelbyd.com>"]
 
